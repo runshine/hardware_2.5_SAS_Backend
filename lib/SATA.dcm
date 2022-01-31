@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATA_FLOPPY_POWER_4
+D Molex ATA Power Connector
+F lib/SATA/ATA_POWER_4.pdf
+$ENDCMP
+#
+$CMP ATA_POWER_4
+D Molex ATA Power Connector
+F lib/SATA/ATA_POWER_4.pdf
+$ENDCMP
+#
+$CMP DC_022B_5.5*2.1_2
+D DC电源插座 全铜 DC-022B 5.5*2.1
+K https://item.taobao.com/item.htm?_u=j23n6d0ee09&id=632236724974
+$ENDCMP
+#
+$CMP LM2596S_DC_MODEL_4
+D DC-DC 降压电源模块 3A可调降压模块 LM2596 稳压 24V转12V 5V 3V
+K https://item.taobao.com/item.htm?spm=a1z09.2.0.0.11ca2e8dSW9we4&id=638875996121&_u=h23n6d0660a
+$ENDCMP
+#
+$CMP SATA_COMBINED_22
+D SATA 22-pin Female Data and Power Connector
+F lib/SATA/SATA_COMBINED_22.pdf
+$ENDCMP
+#
+$CMP SATA_DATA_7
+D SATA 7-pin Male Data Connector
+F lib/SATA/SATA_DATA_7.pdf
+$ENDCMP
+#
+$CMP SATA_POWER_15
+D SATA 15-pin Male Power Connector
+F lib/SATA/SATA_COMBINED_22.pdf
+$ENDCMP
+#
+#End Doc Library
